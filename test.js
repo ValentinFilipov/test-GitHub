@@ -2,4 +2,4 @@ function addNumber (num) {
     return num + num;
 }
 
-addNumber(123);
+console.log(addNumber(123));
